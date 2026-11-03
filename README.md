@@ -12,12 +12,12 @@
 
 <p align="center">
   <a href="https://tori.app/docs">Documentation</a> |
-  <a href="https://github.com/5rahim/seanime-tenji/releases">Latest release</a> |
+  <a href="https://github.com/yeonvvx/tori-mobile/releases">Latest release</a> |
   <a href="https://tori.app/docs/policies">Copyright</a>
 </p>
 
 <div align="center">
-  <a href="https://github.com/sponsors/5rahim">
+  <a href="https://github.com/sponsors/yeonvvx">
     <img src="https://img.shields.io/static/v1?label=Sponsor&style=flat-square&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="" />
   </a>
 </div>

@@ -20,7 +20,7 @@ To build and run Tori, ensure your machine has the following tools installed:
 
 1. Clone the codebase:
    ```bash
-   git clone https://github.com/5rahim/seanime-tenji.git
+   git clone https://github.com/yeonvvx/tori-mobile.git
    cd seanime-tenji
    ```
 2. Install npm packages:
